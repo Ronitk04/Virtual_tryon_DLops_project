@@ -1,0 +1,1 @@
+D:/IIT Jodhpr/3rd year/2nd sem/deep learning/DL_ops project/Deploy/data
